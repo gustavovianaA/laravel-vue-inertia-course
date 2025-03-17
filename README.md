@@ -1,1 +1,1 @@
-# Vue 3 + Inertia + Laravel - Course
+# Vue 3 + Inertia + Laravel 11 - Course
